@@ -33,7 +33,7 @@ A full-stack **Student Grade Tracker** built with **React.js** and **Java Spring
 
 * Git
 * GitHub
-* VS Code / IntelliJ IDEA
+* VS Code
 
 ## 📁 Project Structure
 
